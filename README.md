@@ -1,2 +1,3 @@
 # Document-Decoder-Genetic-Algorithm
-This project was created so decrypt 'shredded documents' using the frequencies and a genetic algorithm. 
+This project was created to decrypt 'shredded documents' using their frequencies and a genetic algorithm. 
+Please look at the 'Report.pdf' for an in-depth project description.
