@@ -1,0 +1,576 @@
+Document 1
+There will be 10 generations for each combination
+There are 50 Individuals for each population
+
+Ordered Crossover:
+
+Crossover Rate:100 Mutation Rate:0
+
+
+Generation:1
+Best Fitness:155.3092239590553
+The chromosome:
+12 5 14 8 13 2 0 1 11 10 3 9 6 7 4
+
+Generation:2
+Best Fitness:154.87751586432813
+The chromosome:
+7 11 9 12 4 5 2 0 6 14 1 10 3 8 13
+
+Generation:3
+Best Fitness:154.7744431142405
+The chromosome:
+0 1 5 6 8 13 10 11 7 14 3 9 12 4 2
+
+Generation:4
+Best Fitness:153.62660629354187
+The chromosome:
+12 4 5 14 3 10 6 9 2 0 1 8 11 7 13
+
+Generation:5
+Best Fitness:153.31065841699683
+The chromosome:
+10 9 6 8 13 2 0 1 11 7 12 4 5 14 3
+
+Generation:6
+Best Fitness:152.14479894214625
+The chromosome:
+8 13 11 7 12 10 6 9 2 0 1 4 5 14 3
+
+Generation:7
+Best Fitness:150.7029354149867
+The chromosome:
+13 10 6 9 2 0 1 11 7 12 4 5 14 3 8
+
+Generation:8
+Best Fitness:150.7029354149867
+The chromosome:
+13 10 6 9 2 0 1 11 7 12 4 5 14 3 8
+
+Generation:9
+Best Fitness:150.7029354149867
+The chromosome:
+13 10 6 9 2 0 1 11 7 12 4 5 14 3 8
+
+Generation:10
+Best Fitness:150.7029354149867
+The chromosome:
+13 10 6 9 2 0 1 11 7 12 4 5 14 3 8
+Best Fitness of the Generation:150.7029354149867
+Average population value:157.43185087538953
+-------------------------------------------------------
+
+
+Crossover Rate:100 Mutation Rate:10
+
+
+Generation:1
+Best Fitness:154.7760215528738
+The chromosome:
+4 1 3 14 8 13 10 6 12 0 7 9 11 2 5
+
+Generation:2
+Best Fitness:154.60085224847782
+The chromosome:
+13 8 10 6 9 1 3 5 14 11 4 12 7 2 0
+
+Generation:3
+Best Fitness:153.6579585472125
+The chromosome:
+10 6 9 3 14 7 0 5 12 8 13 4 2 11 1 
+
+Generation:4
+Best Fitness:153.6579585472125
+The chromosome:
+10 6 9 3 14 7 0 5 12 8 13 4 2 11 1
+
+Generation:5
+Best Fitness:153.35876935847568
+The chromosome:
+7 11 14 3 4 2 0 5 12 8 13 1 10 6 9
+
+Generation:6
+Best Fitness:153.35876935847568
+The chromosome:
+7 11 14 3 4 2 0 5 12 8 13 1 10 6 9
+
+Generation:7
+Best Fitness:153.0757368123081
+The chromosome:
+14 1 11 4 2 7 0 5 12 8 13 10 6 9 3
+
+Generation:8
+Best Fitness:152.16632254515744
+The chromosome:
+1 11 14 3 4 2 0 5 13 10 6 9 7 12 8
+
+Generation:9
+Best Fitness:151.53596740894915
+The chromosome:
+4 1 3 5 14 11 0 7 12 8 13 10 6 9 2
+
+Generation:10
+Best Fitness:151.53596740894915
+The chromosome:
+4 1 3 5 14 11 0 7 12 8 13 10 6 9 2
+Best Fitness of the Generation:151.53596740894915
+Average population value:156.55142720132338
+-------------------------------------------------------
+
+
+Crossover Rate:90 Mutation Rate:0
+
+
+Generation:1
+Best Fitness:155.72552051597623
+The chromosome:
+10 11 1 0 7 3 8 13 6 5 9 14 4 12 2
+
+Generation:2
+Best Fitness:155.2079971914108
+The chromosome:
+4 1 7 12 8 3 5 14 10 0 11 2 13 9 6
+
+Generation:3
+Best Fitness:155.2079971914108
+The chromosome:
+4 1 7 12 8 3 5 14 10 0 11 2 13 9 6
+
+Generation:4
+Best Fitness:153.34902209765218
+The chromosome:
+5 10 0 2 14 3 8 13 6 9 11 7 12 4 1
+
+Generation:5
+Best Fitness:153.17094332102874
+The chromosome:
+4 3 1 5 9 14 13 10 6 11 2 0 7 12 8
+
+Generation:6
+Best Fitness:153.17094332102874
+The chromosome:
+4 3 1 5 9 14 13 10 6 11 2 0 7 12 8
+
+Generation:7
+Best Fitness:152.89382271369323
+The chromosome:
+14 3 8 13 6 9 5 11 7 12 4 1 10 0 2
+
+Generation:8
+Best Fitness:152.03139921147448
+The chromosome:
+5 11 0 2 14 3 8 13 7 12 4 1 10 6 9
+
+Generation:9
+Best Fitness:151.38413922002712
+The chromosome:
+13 2 0 5 14 11 3 8 7 12 4 1 10 6 9
+
+Generation:10
+Best Fitness:151.38413922002712
+The chromosome:
+13 2 0 5 14 11 3 8 7 12 4 1 10 6 9
+Best Fitness of the Generation:151.38413922002712
+Average population value:156.72236274083946
+-------------------------------------------------------
+
+
+Crossover Rate:90 Mutation Rate:10
+
+
+Generation:1
+Best Fitness:154.94840488764765
+The chromosome:
+1 0 3 14 8 5 7 12 4 13 10 2 11 6 9
+
+Generation:2
+Best Fitness:154.27408331728083
+The chromosome:
+11 10 6 9 4 1 5 14 8 2 0 13 3 7 12
+
+Generation:3
+Best Fitness:154.26468897209648
+The chromosome:
+2 11 8 14 1 5 7 12 4 13 10 6 0 3 9
+
+Generation:4
+Best Fitness:153.92414224175474
+The chromosome:
+10 6 9 4 5 14 7 3 8 2 0 13 11 1 12
+
+Generation:5
+Best Fitness:153.4548312636555
+The chromosome:
+7 12 4 2 11 5 8 14 13 10 6 0 3 9 1
+
+Generation:6
+Best Fitness:153.1041607451675
+The chromosome:
+7 12 4 2 11 5 8 14 13 10 3 1 6 9 0
+
+Generation:7
+Best Fitness:153.1041607451675
+The chromosome:
+7 12 4 2 11 5 8 14 13 10 3 1 6 9 0
+
+Generation:8
+Best Fitness:153.1041607451675
+The chromosome:
+7 12 4 2 11 5 8 14 13 10 3 1 6 9 0
+
+Generation:9
+Best Fitness:152.75458943722762
+The chromosome:
+2 0 7 12 4 5 8 14 13 10 3 11 6 9 1
+
+Generation:10
+Best Fitness:152.75458943722762
+The chromosome:
+2 0 7 12 4 5 8 14 13 10 3 11 6 9 1
+Best Fitness of the Generation:152.75458943722762
+Average population value:155.9582729201764
+-------------------------------------------------------
+
+
+Crossover Rate:80 Mutation Rate:20
+
+
+Generation:1
+Best Fitness:155.357717266262
+The chromosome:
+2 9 7 14 8 11 13 10 6 4 1 12 5 0 3
+
+Generation:2
+Best Fitness:154.89337118427122
+The chromosome:
+7 4 5 14 9 0 2 11 1 3 8 6 10 12 13
+
+Generation:3
+Best Fitness:154.41940470669243
+The chromosome:
+12 4 5 14 9 0 2 11 1 3 8 10 6 7 13
+
+Generation:4
+Best Fitness:154.0365696393975
+The chromosome:
+2 0 1 3 8 13 12 10 6 4 7 5 14 11 9
+
+Generation:5
+Best Fitness:154.0365696393975
+The chromosome:
+2 0 1 3 8 13 12 10 6 4 7 5 14 11 9
+
+Generation:6
+Best Fitness:154.0365696393975
+The chromosome:
+2 0 1 3 8 13 12 10 6 4 7 5 14 11 9
+
+Generation:7
+Best Fitness:152.56488522905858
+The chromosome:
+0 13 7 12 4 5 14 11 1 3 8 10 6 9 2
+
+Generation:8
+Best Fitness:152.56488522905858
+The chromosome:
+0 13 7 12 4 5 14 11 1 3 8 10 6 9 2
+
+Generation:9
+Best Fitness:151.98051305057
+The chromosome:
+13 10 7 12 4 5 14 11 6 9 2 0 1 3 8
+
+Generation:10
+Best Fitness:150.17742008975574
+The chromosome:
+5 14 11 1 3 8 13 10 6 9 2 0 7 12 4
+Best Fitness of the Generation:150.17742008975574
+Average population value:155.39617691840368
+-------------------------------------------------------
+
+
+Uniform-Ordered Crossover:
+
+Crossover Rate:100 Mutation Rate:0
+
+
+Generation:1
+Best Fitness:155.81724026775723
+The chromosome:
+3 0 7 5 14 12 8 6 4 11 13 2 1 10 9
+
+Generation:2
+Best Fitness:155.10519283678718
+The chromosome:
+0 7 12 3 5 9 4 10 6 11 2 8 13 14 1
+
+Generation:3
+Best Fitness:154.3846839521791
+The chromosome:
+7 0 5 14 3 2 10 6 9 13 11 12 4 8 1
+
+Generation:4
+Best Fitness:154.17842092712306
+The chromosome:
+0 7 2 14 3 9 1 5 12 11 4 8 13 10 6
+
+Generation:5
+Best Fitness:153.71316444216174
+The chromosome:
+7 0 5 14 3 2 10 6 9 8 13 12 11 4 1
+
+Generation:6
+Best Fitness:153.48084087016974
+The chromosome:
+7 0 5 14 3 2 1 10 6 9 8 13 11 12 4 
+
+Generation:7
+Best Fitness:152.43917737268603
+The chromosome:
+2 0 8 14 1 7 12 4 3 11 5 13 10 6 9
+
+Generation:8
+Best Fitness:152.43917737268603
+The chromosome:
+2 0 8 14 1 7 12 4 3 11 5 13 10 6 9
+
+Generation:9
+Best Fitness:152.39481255867165
+The chromosome:
+2 0 7 14 1 4 12 3 11 5 8 13 10 6 9
+
+Generation:10
+Best Fitness:152.39481255867165
+The chromosome:
+2 0 7 14 1 4 12 3 11 5 8 13 10 6 9
+Best Fitness of the Generation:152.39481255867165
+Average population value:157.43384581854932
+-------------------------------------------------------
+
+
+Crossover Rate:100 Mutation Rate:10
+
+
+Generation:1
+Best Fitness:154.53151186346994
+The chromosome:
+12 9 5 1 3 14 11 2 0 7 6 8 13 10 4
+
+Generation:2
+Best Fitness:154.53151186346994
+The chromosome:
+12 9 5 1 3 14 11 2 0 7 6 8 13 10 4
+
+Generation:3
+Best Fitness:153.96981651719588
+The chromosome:
+10 4 5 14 3 8 7 12 0 11 2 6 9 1 13
+
+Generation:4
+Best Fitness:153.73453793169486
+The chromosome:
+8 0 7 12 2 5 3 14 13 10 6 9 11 4 1 
+
+Generation:5
+Best Fitness:152.9485561744994
+The chromosome:
+11 14 3 0 7 12 8 13 2 1 10 6 9 4 5
+
+Generation:6
+Best Fitness:152.9485561744994
+The chromosome:
+11 14 3 0 7 12 8 13 2 1 10 6 9 4 5
+
+Generation:7
+Best Fitness:152.9485561744994
+The chromosome:
+11 14 3 0 7 12 8 13 2 1 10 6 9 4 5
+
+Generation:8
+Best Fitness:152.9485561744994
+The chromosome:
+11 14 3 0 7 12 8 13 2 1 10 6 9 4 5
+
+Generation:9
+Best Fitness:152.9485561744994
+The chromosome:
+11 14 3 0 7 12 8 13 2 1 10 6 9 4 5
+
+Generation:10
+Best Fitness:152.9485561744994
+The chromosome:
+11 14 3 0 7 12 8 13 2 1 10 6 9 4 5
+Best Fitness of the Generation:152.9485561744994
+Average population value:156.91106066324835
+-------------------------------------------------------
+
+
+Crossover Rate:90 Mutation Rate:0
+
+
+Generation:1
+Best Fitness:155.77360184104927
+The chromosome:
+14 8 6 1 3 11 5 0 13 10 2 4 9 7 12
+
+Generation:2
+Best Fitness:154.69731396701326
+The chromosome:
+2 3 8 14 12 9 6 4 1 11 7 0 5 13 10
+
+Generation:3
+Best Fitness:154.69731396701326
+The chromosome:
+2 3 8 14 12 9 6 4 1 11 7 0 5 13 10
+
+Generation:4
+Best Fitness:154.16700620963726
+The chromosome:
+7 13 14 3 6 9 11 1 10 2 0 5 12 4 8
+
+Generation:5
+Best Fitness:154.16700620963726
+The chromosome:
+7 13 14 3 6 9 11 1 10 2 0 5 12 4 8
+
+Generation:6
+Best Fitness:153.77287234277088
+The chromosome:
+14 3 8 1 11 4 10 6 13 2 0 5 9 7 12
+
+Generation:7
+Best Fitness:153.77287234277088
+The chromosome:
+14 3 8 1 11 4 10 6 13 2 0 5 9 7 12
+
+Generation:8
+Best Fitness:153.77287234277088
+The chromosome:
+14 3 8 1 11 4 10 6 13 2 0 5 9 7 12
+
+Generation:9
+Best Fitness:153.77287234277088
+The chromosome:
+14 3 8 1 11 4 10 6 13 2 0 5 9 7 12
+
+Generation:10
+Best Fitness:153.77287234277088
+The chromosome:
+14 3 8 1 11 4 10 6 13 2 0 5 9 7 12
+Best Fitness of the Generation:153.77287234277088
+Average population value:156.8348410091234
+-------------------------------------------------------
+
+
+Crossover Rate:90 Mutation Rate:10
+
+
+Generation:1
+Best Fitness:155.4122498119486
+The chromosome:
+7 4 5 8 10 6 9 0 3 1 14 13 11 12 2 
+
+Generation:2
+Best Fitness:155.1284040699029
+The chromosome:
+3 0 10 6 9 8 11 2 1 14 7 12 5 13 4
+
+Generation:3
+Best Fitness:154.48198397836356
+The chromosome:
+5 3 8 14 7 11 2 0 1 6 9 4 12 13 10
+
+Generation:4
+Best Fitness:154.48198397836356
+The chromosome:
+5 3 8 14 7 11 2 0 1 6 9 4 12 13 10
+
+Generation:5
+Best Fitness:154.18291001237895
+The chromosome:
+7 12 5 3 8 14 11 2 0 1 6 9 13 4 10
+
+Generation:6
+Best Fitness:153.2784079243349
+The chromosome:
+7 12 5 14 11 2 6 9 0 3 8 4 1 10 13
+
+Generation:7
+Best Fitness:153.2784079243349
+The chromosome:
+7 12 5 14 11 2 6 9 0 3 8 4 1 10 13
+
+Generation:8
+Best Fitness:152.9975533123086
+The chromosome:
+7 12 5 3 8 14 11 2 0 1 6 9 13 10 4
+
+Generation:9
+Best Fitness:152.8344864111363
+The chromosome:
+7 12 5 14 3 11 2 0 6 9 8 4 1 13 10
+
+Generation:10
+Best Fitness:152.3473471042584
+The chromosome:
+7 12 5 14 11 2 0 6 9 3 8 4 1 13 10
+Best Fitness of the Generation:152.3473471042584
+Average population value:156.34945157253745
+-------------------------------------------------------
+
+
+Crossover Rate:80 Mutation Rate:20
+
+
+Generation:1
+Best Fitness:155.40172368318125
+The chromosome:
+4 13 2 0 14 10 8 6 9 11 3 1 5 12 7
+
+Generation:2
+Best Fitness:155.03224091398243
+The chromosome:
+9 7 8 14 1 11 5 0 12 4 13 10 6 2 3
+
+Generation:3
+Best Fitness:154.3190601478031
+The chromosome:
+4 14 2 0 11 1 6 9 13 10 5 8 3 12 7
+
+Generation:4
+Best Fitness:154.3190601478031
+The chromosome:
+4 14 2 0 11 1 6 9 13 10 5 8 3 12 7
+
+Generation:5
+Best Fitness:154.3190601478031
+The chromosome:
+4 14 2 0 11 1 6 9 13 10 5 8 3 12 7
+
+Generation:6
+Best Fitness:154.3190601478031
+The chromosome:
+4 14 2 0 11 1 6 9 13 10 5 8 3 12 7
+
+Generation:7
+Best Fitness:154.3190601478031
+The chromosome:
+4 14 2 0 11 1 6 9 13 10 5 8 3 12 7
+
+Generation:8
+Best Fitness:154.3190601478031
+The chromosome:
+4 14 2 0 11 1 6 9 13 10 5 8 3 12 7
+
+Generation:9
+Best Fitness:154.14486950854064
+The chromosome:
+4 14 2 11 5 13 10 6 9 1 0 8 3 12 7
+
+Generation:10
+Best Fitness:153.53993349018464
+The chromosome:
+4 14 2 0 11 1 5 13 10 6 9 8 3 12 7
+Best Fitness of the Generation:153.53993349018464
+Average population value:156.7904006392872
+-------------------------------------------------------
